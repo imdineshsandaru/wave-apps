@@ -1,0 +1,6 @@
+# Intelij
+.idea/
+*.iml
+
+# python environment
+venv
